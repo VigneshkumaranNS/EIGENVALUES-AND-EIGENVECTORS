@@ -23,6 +23,6 @@ print("Eigen values are {} and Eigen Vectors are {}".format(values,vectors))
 ```
 
 ## Output:
-![input12](Eigen.png)
+![input12](Eigen1.png)
 ## Result:
 Thus the Eigenvalue and Eigenvector is successfully solved using python program
